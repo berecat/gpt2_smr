@@ -1,6 +1,6 @@
 # README #
 
-Text summarization using **GPT2** and the **TransformerSummarizer** from [Hugging Face](https://huggingface.co/).
+Text summarization using **GPT2** from [Hugging Face](https://huggingface.co/).
 
 ### Requirements ###
 
